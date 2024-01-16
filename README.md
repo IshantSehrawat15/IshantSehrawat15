@@ -1,4 +1,4 @@
- ![Header](./[github-header-image.png])
+<img src = "https://github.com/IshantSehrawat15/IshantSehrawat15/blob/main/github-header-image.png" alt = "Header of ishant Sehrawat github profile" />
 # 💫 About Me:
 I am a Computer Science student<br>Currently learning Data Structures and algorithms<br>Experience in C++ language<br>
 
